@@ -1,1 +1,1 @@
-# coding-project-template
+# Simple JS app for IBM's Introduction to Cloud Development with HTML, CSS, JavaScript
