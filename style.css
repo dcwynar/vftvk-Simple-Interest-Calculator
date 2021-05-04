@@ -3,11 +3,35 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
     color:black;
-    width:300px;
-    padding:20px;
+    width:500px;
+    padding:60px;
     border-radius:25px;
-    align:center
+}
+footer {
+    margin-top: 10px;
+}
+.form {
+    margin-left: 30px;
 }
 .highlight {
     background-color: yellow;
+}
+input, select {
+    left: 300px;
+    width: 200px;
+    position: absolute;
+}
+
+#rate {
+    width: 150px;
+}
+
+#rate_val {
+    position: absolute;
+    left: 460px;
+    font-weight: 400;
+}
+
+.form br {
+    margin-bottom: 10px;
 }
